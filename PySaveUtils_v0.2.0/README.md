@@ -7,7 +7,7 @@
 ## 🚀 Установка
 
 ```bash
-pip install .
+pip install PySaveUtils
 ```
 
 ## 📦 Быстрый старт с новым API
